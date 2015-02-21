@@ -12,7 +12,7 @@ As a small recap,there are five steps in the assignment:
 
 Running the code:
 
-The code is quite simple. I have simple codes to implement the solution. Mostly, as I have just started coding in R
+I have used simple codes and not too many fancy functions to implement the solution. 
 
 Note:
 
@@ -25,7 +25,7 @@ The code is structured according to the five steps.
 
 step 1 :
 
-This step imports and row binds the main dataset, i.e "X_Train" and "X_Test". The, the "features" file is imported and the column names are imported into the main data set
+This step imports and row binds the main dataset, i.e "X_Train" and "X_Test". Then, the "features" file is imported and the column names from features are imported into the main data set
 
 Step 2:
 
